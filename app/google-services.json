@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773653000042",
+    "project_id": "weather-fe674",
+    "storage_bucket": "weather-fe674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773653000042:android:6d0138de27167c1757bf13",
+        "android_client_info": {
+          "package_name": "com.kamesh.weatherapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773653000042-9j4kf2puoqlgvbtnj62bftm8jm9gmga8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamesh.weatherapplication",
+            "certificate_hash": "e70211f8280621647ef0c8358a2fdeadad0b243f"
+          }
+        },
+        {
+          "client_id": "773653000042-kvpgon0l0867qdq3odri7d11142b8e2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX17KYlpuES-OWH4Gn5661tuhuv1P0mco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773653000042-kvpgon0l0867qdq3odri7d11142b8e2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

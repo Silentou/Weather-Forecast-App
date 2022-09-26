@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="andhra_pradesh_kadapa">Andhra Pradesh, Kadapa</string>
+    <string name="tue_jun_30">Tue, Jun 30</string>
+    <string name="_19_c">19°c</string>
+    <string name="sun_behind_cloud">Sun Behind Cloud</string>
+    <string name="_19km_h">19km/h</string>
+    <string name="_73">73%</string>
+    <string name="rainfall">RainFall</string>
+    <string name="kadapa">Kadapa</string>
+    <string name="andhra_pradesh">Andhra Pradesh</string>
+    <string name="weather_forecast_image">Weather Forecast Image</string>
+    <string name="_12_68">12.68</string>
+    <string name="_13_68">13.68</string>
+    <string name="error_please_try_again">Error, Please try Again</string>
+    <string name="slash">/</string>
+    <string name="search_location">Search Location</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="today">Today</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="tod">Tod</string>
+    <string name="tom">Tom</string>
+    <string name="empty">Empty</string>
+    <string name="try_again">Try Again</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_label">Wind</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="daily_update">Daily Update</string>
+
+</resources>
