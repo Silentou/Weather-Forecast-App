@@ -5,7 +5,7 @@
 
 ###  **Preview**
 
-![Gif]()
+![Gif](https://github.com/Silentou/Weather-Forecast_App/blob/master/ezgif.com-gif-maker.gif)
 
 ### **Overview**
 
