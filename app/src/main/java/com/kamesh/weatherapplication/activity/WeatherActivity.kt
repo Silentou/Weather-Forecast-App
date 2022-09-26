@@ -544,7 +544,7 @@ class WeatherActivity : AppCompatActivity() {
 
     companion object{
         private const val PERMISSION_REQUEST_ACCESS_LOCATION = 100
-        const val API_KEY ="58714ed8d6b840338d172d0808694e3e"
+        const val API_KEY ="your_api_key"
     }
 
         private fun kelvinToCelsius(temp: Double): Double {
