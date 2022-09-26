@@ -31,8 +31,6 @@ class WeatherForecastAdapter (
 
 
             itemView.forecastDegree.text = "${(forecastElement.main.temp - 273.15).toInt()} °C "
-//            itemView.forecastTime.text = forecastElement.dt_txt
-//            ""+SimpleDateFormat("MMM d", Locale.ENGLISH).format(forecastElement.dt*1000L)"\n "+
             val sdfSource = SimpleDateFormat("YYYY-MM-dd HH:mm:ss")
             val date = sdfSource.parse(forecastElement.dt_txt)
             val sdfDestination = SimpleDateFormat("d MMM hh:mm a")
